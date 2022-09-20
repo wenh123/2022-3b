@@ -18,3 +18,12 @@ Video call link: https://meet.google.com/xsb-owps-pwp
 🐷 🐯 🐈 
 
 ![NKUST](nkust.png "NKUST")
+
+- [ ] todo list
+- [ ] 2nd 
+- [x] done
+
+```python
+s = "this  is a example"
+print(s)
+```
